@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\chainofresponsibility\\requesthandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\chainofresponsibility\\requesthandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\chainofresponsibility\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\chainofresponsibility\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\chainofresponsibility\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\chainofresponsibility\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\chainofresponsibility\\authorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\chainofresponsibility\\authorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\chainofresponsibility\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\chainofresponsibility\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\chainofresponsibility\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\chainofresponsibility\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\iterator\\fruitlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\iterator\\fruitlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\decorator\\coffeewithsugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\decorator\\coffeewithsugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\decorator\\coffeewithmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\decorator\\coffeewithmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\command\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\command\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\command\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\command\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\command\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\command\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\command\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\command\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\strategy\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategy\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\strategy\\twohandedsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategy\\twohandedsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\strategy\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategy\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\strategy\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategy\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\observer\\hexaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\observer\\hexaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\observer\\binaryoberver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\observer\\binaryoberver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\observer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\observer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\decorator\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\decorator\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\decorator\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\decorator\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\decorator\\coffeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\decorator\\coffeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\composite\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\composite\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\composite\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\composite\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\composite\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\composite\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\prototype\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\prototype\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\prototype\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\prototype\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\factory\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\factory\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\factory\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\benhb\\desktop\\designpatterns\\designpatterns\\factory\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C595B03-5EB0-4E9D-869D-50DF6B38964D}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\ValidationHandler.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\ChainOfResponsibility\\ValidationHandler.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\ValidationHandler.cs",
+              "RelativeToolTip": "DesignPatterns\\ChainOfResponsibility\\ValidationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:33:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\AuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\ChainOfResponsibility\\AuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\AuthorizationHandler.cs",
+              "RelativeToolTip": "DesignPatterns\\ChainOfResponsibility\\AuthorizationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:32:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\AuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\ChainOfResponsibility\\AuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\AuthenticationHandler.cs",
+              "RelativeToolTip": "DesignPatterns\\ChainOfResponsibility\\AuthenticationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:30:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestHandlerBase.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\RequestHandlerBase.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\ChainOfResponsibility\\RequestHandlerBase.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\RequestHandlerBase.cs",
+              "RelativeToolTip": "DesignPatterns\\ChainOfResponsibility\\RequestHandlerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:12:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\Request.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\ChainOfResponsibility\\Request.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\Request.cs",
+              "RelativeToolTip": "DesignPatterns\\ChainOfResponsibility\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:11:57.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\ChainOfResponsibility\\IRequestHandler.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\ChainOfResponsibility\\IRequestHandler.cs",
+              "RelativeToolTip": "DesignPatterns\\ChainOfResponsibility\\IRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:11:17.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Strategy\\Character.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Strategy\\Character.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Strategy\\Character.cs",
+              "RelativeToolTip": "DesignPatterns\\Strategy\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:33:27.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:10:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Buy.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\Buy.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Command\\Buy.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\Buy.cs",
+              "RelativeToolTip": "DesignPatterns\\Command\\Buy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:14:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BinaryOberver.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Observer\\BinaryOberver.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Observer\\BinaryOberver.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Observer\\BinaryOberver.cs",
+              "RelativeToolTip": "DesignPatterns\\Observer\\BinaryOberver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:12:14.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Strategy\\IWeapon.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Strategy\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Strategy\\IWeapon.cs",
+              "RelativeToolTip": "DesignPatterns\\Strategy\\IWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:35:32.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\Stock.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Command\\Stock.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\Stock.cs",
+              "RelativeToolTip": "DesignPatterns\\Command\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:11:01.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\Broker.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Command\\Broker.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\Broker.cs",
+              "RelativeToolTip": "DesignPatterns\\Command\\Broker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:18:28.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Command\\ICommand.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\ICommand.cs",
+              "RelativeToolTip": "DesignPatterns\\Command\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:09:19.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sell.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\Sell.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Command\\Sell.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Command\\Sell.cs",
+              "RelativeToolTip": "DesignPatterns\\Command\\Sell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:17:21.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoffeeWithSugar.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\CoffeeWithSugar.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Decorator\\CoffeeWithSugar.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\CoffeeWithSugar.cs",
+              "RelativeToolTip": "DesignPatterns\\Decorator\\CoffeeWithSugar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:56:55.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoffeeWithMilk.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\CoffeeWithMilk.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Decorator\\CoffeeWithMilk.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\CoffeeWithMilk.cs",
+              "RelativeToolTip": "DesignPatterns\\Decorator\\CoffeeWithMilk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:44:01.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FruitList.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Iterator\\FruitList.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Iterator\\FruitList.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Iterator\\FruitList.cs",
+              "RelativeToolTip": "DesignPatterns\\Iterator\\FruitList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:26:58.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TwoHandedSword.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Strategy\\TwoHandedSword.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Strategy\\TwoHandedSword.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Strategy\\TwoHandedSword.cs",
+              "RelativeToolTip": "DesignPatterns\\Strategy\\TwoHandedSword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:38:13.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bow.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Strategy\\Bow.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Strategy\\Bow.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Strategy\\Bow.cs",
+              "RelativeToolTip": "DesignPatterns\\Strategy\\Bow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:36:23.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Composite\\Branch.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Composite\\Branch.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Composite\\Branch.cs",
+              "RelativeToolTip": "DesignPatterns\\Composite\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:15:26.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICoffee.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\ICoffee.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Decorator\\ICoffee.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\ICoffee.cs",
+              "RelativeToolTip": "DesignPatterns\\Decorator\\ICoffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:40:01.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\Coffee.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Decorator\\Coffee.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\Coffee.cs",
+              "RelativeToolTip": "DesignPatterns\\Decorator\\Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:50:04.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Observer\\Subject.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Observer\\Subject.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Observer\\Subject.cs",
+              "RelativeToolTip": "DesignPatterns\\Observer\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:06:38.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Observer\\IObserver.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Observer\\IObserver.cs",
+              "RelativeToolTip": "DesignPatterns\\Observer\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:07:07.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HexaObserver.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Observer\\HexaObserver.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Observer\\HexaObserver.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Observer\\HexaObserver.cs",
+              "RelativeToolTip": "DesignPatterns\\Observer\\HexaObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:16:13.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Prototype\\Person.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Prototype\\Person.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Prototype\\Person.cs",
+              "RelativeToolTip": "DesignPatterns\\Prototype\\Person.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:46:03.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CoffeeDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\CoffeeDecorator.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Decorator\\CoffeeDecorator.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Decorator\\CoffeeDecorator.cs",
+              "RelativeToolTip": "DesignPatterns\\Decorator\\CoffeeDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:51:45.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Composite\\IComponent.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Composite\\IComponent.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Composite\\IComponent.cs",
+              "RelativeToolTip": "DesignPatterns\\Composite\\IComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:13:31.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Composite\\Leaf.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Composite\\Leaf.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Composite\\Leaf.cs",
+              "RelativeToolTip": "DesignPatterns\\Composite\\Leaf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:14:07.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShapeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Factory\\ShapeFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\ShapeFactory.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Factory\\ShapeFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\ShapeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:01:45.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Factory\\Circle.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\Circle.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Factory\\Circle.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:57:50.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Id.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Prototype\\Id.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Prototype\\Id.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Prototype\\Id.cs",
+              "RelativeToolTip": "DesignPatterns\\Prototype\\Id.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:53:47.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Factory\\Rectangle.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Factory\\Rectangle.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:57:03.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Factory\\IShape.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\IShape.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\DesignPatterns\\DesignPatterns\\Factory\\IShape.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:56:33.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

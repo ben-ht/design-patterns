@@ -1,4 +1,5 @@
 ﻿using DesignPatterns.Adapter;
+using DesignPatterns.ChainOfResponsibility;
 using DesignPatterns.Command;
 using DesignPatterns.Composite;
 using DesignPatterns.Decorator;
@@ -91,3 +92,12 @@ Character archer = new Character("Archer", new Bow());
 archer.Attack();
 Character warrior = new Character("Warrior", new TwoHandedSword());
 warrior.Attack();
+
+// Chain of responsibility
+AuthenticationHandler authenticationHandler = new AuthenticationHandler();
+AuthorizationHandler authorizationHandler = new AuthorizationHandler();
+ValidationHandler validationHandler = new ValidationHandler();
+authenticationHandler.SetNextHandler(authorizationHandler);
+authorizationHandler.SetNextHandler(validationHandler);
+Request request = new Request { Content = "Sample request"};
+authenticationHandler.HandleRequest(request);
