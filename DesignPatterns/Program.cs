@@ -8,6 +8,7 @@ using DesignPatterns.Factory;
 using DesignPatterns.Iterator;
 using DesignPatterns.Observer;
 using DesignPatterns.Prototype;
+using DesignPatterns.State;
 using DesignPatterns.Strategy;
 
 // Adapter
@@ -113,3 +114,14 @@ AdvancedRemote advRemote = new AdvancedRemote(tv);
 advRemote.Power();
 advRemote.Mute();
 Console.WriteLine(tv);
+
+// State
+VendingMachineContext vendingMachine =  new VendingMachineContext();
+vendingMachine.SetState(new ReadyState());
+vendingMachine.Request();
+vendingMachine.SetState(new ProductSelectedState());
+vendingMachine.Request();
+vendingMachine.SetState(new PaymentPendingState());
+vendingMachine.Request();
+vendingMachine.SetState(new OutOfStockState());
+vendingMachine.Request();
