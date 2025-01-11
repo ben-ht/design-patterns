@@ -1,4 +1,5 @@
 ﻿using DesignPatterns.Adapter;
+using DesignPatterns.Bridge;
 using DesignPatterns.ChainOfResponsibility;
 using DesignPatterns.Command;
 using DesignPatterns.Composite;
@@ -101,3 +102,14 @@ authenticationHandler.SetNextHandler(authorizationHandler);
 authorizationHandler.SetNextHandler(validationHandler);
 Request request = new Request { Content = "Sample request"};
 authenticationHandler.HandleRequest(request);
+
+// Bridge
+Radio radio = new Radio();
+BaseRemote remote = new BaseRemote(radio);
+remote.Power();
+Console.WriteLine(radio);
+Tv tv = new Tv();
+AdvancedRemote advRemote = new AdvancedRemote(tv);
+advRemote.Power();
+advRemote.Mute();
+Console.WriteLine(tv);
