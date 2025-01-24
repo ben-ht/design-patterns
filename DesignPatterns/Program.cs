@@ -1,5 +1,6 @@
 ﻿using DesignPatterns.Adapter;
 using DesignPatterns.Bridge;
+using DesignPatterns.Builder;
 using DesignPatterns.ChainOfResponsibility;
 using DesignPatterns.Command;
 using DesignPatterns.Composite;
@@ -125,3 +126,9 @@ vendingMachine.SetState(new PaymentPendingState());
 vendingMachine.Request();
 vendingMachine.SetState(new OutOfStockState());
 vendingMachine.Request();
+
+// Builder
+GamingComputerBuilder builder = new GamingComputerBuilder();
+BuildDirector director = new BuildDirector();
+director.Construct(builder);
+Console.WriteLine(builder.Computer);
