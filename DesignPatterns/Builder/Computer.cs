@@ -7,8 +7,6 @@ internal class Computer
 
     public override string ToString()
     {
-        return $"Computer (CPU : {CPU}, RAM : {RAM}, Storage : {Storage}";
-
-
+        return $"Computer (CPU : {CPU}, RAM : {RAM}, Storage : {Storage})";
     }
 }

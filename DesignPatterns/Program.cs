@@ -7,6 +7,7 @@ using DesignPatterns.Composite;
 using DesignPatterns.Decorator;
 using DesignPatterns.Factory;
 using DesignPatterns.Iterator;
+using DesignPatterns.Memento;
 using DesignPatterns.Observer;
 using DesignPatterns.Prototype;
 using DesignPatterns.State;
@@ -132,3 +133,18 @@ GamingComputerBuilder builder = new GamingComputerBuilder();
 BuildDirector director = new BuildDirector();
 director.Construct(builder);
 Console.WriteLine(builder.Computer);
+
+// Memento
+CodeEditor codeEditor = new CodeEditor();
+History history  = new History();
+codeEditor.Content = "Content 1";
+history.Push(codeEditor.CreateState());
+codeEditor.Content = "Content 2";
+history.Push(codeEditor.CreateState());
+codeEditor.Content = "Content 3";
+history.Push(codeEditor.CreateState());
+codeEditor.Content = "Content 4";
+codeEditor.Restore(history.Pop());
+Console.WriteLine(codeEditor.Content);
+codeEditor.Restore(history.At(0));
+Console.WriteLine(codeEditor.Content);
