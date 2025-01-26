@@ -5,6 +5,7 @@ using DesignPatterns.ChainOfResponsibility;
 using DesignPatterns.Command;
 using DesignPatterns.Composite;
 using DesignPatterns.Decorator;
+using DesignPatterns.Facade;
 using DesignPatterns.Factory;
 using DesignPatterns.Iterator;
 using DesignPatterns.Memento;
@@ -148,3 +149,7 @@ codeEditor.Restore(history.Pop());
 Console.WriteLine(codeEditor.Content);
 codeEditor.Restore(history.At(0));
 Console.WriteLine(codeEditor.Content);
+
+// Facade
+Order order = new Order();
+order.OrderFood();
