@@ -7,6 +7,7 @@ using DesignPatterns.Composite;
 using DesignPatterns.Decorator;
 using DesignPatterns.Facade;
 using DesignPatterns.Factory;
+using DesignPatterns.FlyWeight;
 using DesignPatterns.Iterator;
 using DesignPatterns.Memento;
 using DesignPatterns.Observer;
@@ -153,3 +154,10 @@ Console.WriteLine(codeEditor.Content);
 // Facade
 Order order = new Order();
 order.OrderFood();
+
+// Flyweight
+Forest forest = new Forest();
+for (int i = 0; i < 100000; i++)
+{
+    forest.PlantTree(0, 0, "Oak");
+}
