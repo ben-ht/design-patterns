@@ -1,5 +1,5 @@
 ﻿namespace DesignPatterns.Builder;
-internal class Computer
+internal class Laptop
 {
     public string Storage {  get; set; }
     public string RAM { get; set; }

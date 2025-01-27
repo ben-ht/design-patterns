@@ -15,6 +15,7 @@ using DesignPatterns.Prototype;
 using DesignPatterns.State;
 using DesignPatterns.Strategy;
 using DesignPatterns.Template;
+using DesignPatterns.Visitor;
 
 // Adapter
 SamsungPhone samsung = new SamsungPhone(new ChargerAdapter());
@@ -132,10 +133,10 @@ vendingMachine.SetState(new OutOfStockState());
 vendingMachine.Request();
 
 // Builder
-GamingComputerBuilder builder = new GamingComputerBuilder();
+GamingLaptopBuilder builder = new GamingLaptopBuilder();
 BuildDirector director = new BuildDirector();
 director.Construct(builder);
-Console.WriteLine(builder.Computer);
+Console.WriteLine(builder.Laptop);
 
 // Memento
 CodeEditor codeEditor = new CodeEditor();
@@ -170,3 +171,6 @@ Instagram ig = new Instagram("user", "123");
 fb.Post(message);
 ig.Post(message);
 
+// Visitor
+Computer computer = new Computer();
+computer.Accept(new ComputerPartDisplayVisitor());
