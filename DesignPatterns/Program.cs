@@ -14,6 +14,7 @@ using DesignPatterns.Observer;
 using DesignPatterns.Prototype;
 using DesignPatterns.State;
 using DesignPatterns.Strategy;
+using DesignPatterns.Template;
 
 // Adapter
 SamsungPhone samsung = new SamsungPhone(new ChargerAdapter());
@@ -161,3 +162,11 @@ for (int i = 0; i < 100000; i++)
 {
     forest.PlantTree(0, 0, "Oak");
 }
+
+// Template
+string message = "This is the template pattern";
+Facebook fb = new Facebook("user", "123");
+Instagram ig = new Instagram("user", "123");
+fb.Post(message);
+ig.Post(message);
+
