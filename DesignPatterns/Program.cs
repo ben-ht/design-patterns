@@ -1,11 +1,15 @@
 ﻿using DesignPatterns.Adapter;
 using DesignPatterns.Bridge;
+using DesignPatterns.Builder;
 using DesignPatterns.ChainOfResponsibility;
 using DesignPatterns.Command;
 using DesignPatterns.Composite;
 using DesignPatterns.Decorator;
+using DesignPatterns.Facade;
 using DesignPatterns.Factory;
+using DesignPatterns.FlyWeight;
 using DesignPatterns.Iterator;
+using DesignPatterns.Memento;
 using DesignPatterns.Observer;
 using DesignPatterns.Prototype;
 using DesignPatterns.State;
@@ -125,3 +129,35 @@ vendingMachine.SetState(new PaymentPendingState());
 vendingMachine.Request();
 vendingMachine.SetState(new OutOfStockState());
 vendingMachine.Request();
+
+// Builder
+GamingComputerBuilder builder = new GamingComputerBuilder();
+BuildDirector director = new BuildDirector();
+director.Construct(builder);
+Console.WriteLine(builder.Computer);
+
+// Memento
+CodeEditor codeEditor = new CodeEditor();
+History history  = new History();
+codeEditor.Content = "Content 1";
+history.Push(codeEditor.CreateState());
+codeEditor.Content = "Content 2";
+history.Push(codeEditor.CreateState());
+codeEditor.Content = "Content 3";
+history.Push(codeEditor.CreateState());
+codeEditor.Content = "Content 4";
+codeEditor.Restore(history.Pop());
+Console.WriteLine(codeEditor.Content);
+codeEditor.Restore(history.At(0));
+Console.WriteLine(codeEditor.Content);
+
+// Facade
+Order order = new Order();
+order.OrderFood();
+
+// Flyweight
+Forest forest = new Forest();
+for (int i = 0; i < 100000; i++)
+{
+    forest.PlantTree(0, 0, "Oak");
+}
