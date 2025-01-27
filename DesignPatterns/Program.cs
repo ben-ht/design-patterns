@@ -12,6 +12,7 @@ using DesignPatterns.Iterator;
 using DesignPatterns.Memento;
 using DesignPatterns.Observer;
 using DesignPatterns.Prototype;
+using DesignPatterns.Proxy;
 using DesignPatterns.State;
 using DesignPatterns.Strategy;
 using DesignPatterns.Template;
@@ -174,3 +175,8 @@ ig.Post(message);
 // Visitor
 Computer computer = new Computer();
 computer.Accept(new ComputerPartDisplayVisitor());
+
+// Proxy
+ImageProxy image = new ImageProxy("test.jpg");
+image.Display();
+image.Display();
