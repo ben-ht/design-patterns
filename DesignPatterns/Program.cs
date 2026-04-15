@@ -9,6 +9,7 @@ using DesignPatterns.Facade;
 using DesignPatterns.Factory;
 using DesignPatterns.FlyWeight;
 using DesignPatterns.Iterator;
+using DesignPatterns.Mediator;
 using DesignPatterns.Memento;
 using DesignPatterns.Observer;
 using DesignPatterns.Prototype;
@@ -180,3 +181,13 @@ computer.Accept(new ComputerPartDisplayVisitor());
 ImageProxy image = new ImageProxy("test.jpg");
 image.Display();
 image.Display();
+
+// Mediator
+PassengerTrain train1 = new("Train 1");
+FreightTrain train2 = new("Train 2");
+TrainStation station = new();
+station.Accept(train1);
+station.Accept(train2);
+station.Depart("Train 1");
+station.Depart("Train 2");
+station.Depart("Train 3");
